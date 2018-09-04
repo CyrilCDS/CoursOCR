@@ -1,2 +1,7 @@
 1ere Partie
-- Creation , Indexation, Modification, Commit et 1er Push sur Github
+- Creation , Indexation, Commit 
+
+2eme Partie 
+- Modification Newfile.txt
+- Commit
+
